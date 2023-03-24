@@ -1,2 +1,2 @@
-# practica_github1
+# Leo
 Leonardo Cabrera
